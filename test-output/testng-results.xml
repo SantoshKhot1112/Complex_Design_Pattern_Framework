@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="30" passed="30">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4733501" started-at="2022-08-29T12:34:13 IST" finished-at="2022-08-29T13:53:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4733501" started-at="2022-08-29T12:34:13 IST" finished-at="2022-08-29T13:53:06 IST">
+      <class name="nursingSystem_Page_Tests.Login_Page_Test">
+        <test-method status="PASS" signature="beforeSuitStart()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeSuitStart" is-config="true" duration-ms="73" started-at="2022-08-29T12:34:13 IST" finished-at="2022-08-29T12:34:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuitStart -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="6477" started-at="2022-08-29T12:34:13 IST" finished-at="2022-08-29T12:34:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC13() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC13()[pri:1, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC13" duration-ms="35918" started-at="2022-08-29T12:34:19 IST" description="Patient name accepts alphabates" finished-at="2022-08-29T12:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="62" started-at="2022-08-29T12:34:55 IST" finished-at="2022-08-29T12:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="7428" started-at="2022-08-29T12:34:55 IST" finished-at="2022-08-29T12:35:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC14() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC14()[pri:2, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC14" duration-ms="39851" started-at="2022-08-29T12:35:03 IST" description="Patient name do not accept numbers" finished-at="2022-08-29T12:35:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="32" started-at="2022-08-29T12:35:43 IST" finished-at="2022-08-29T12:35:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="7582" started-at="2022-08-29T12:35:43 IST" finished-at="2022-08-29T12:35:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC15() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC15()[pri:3, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC15" duration-ms="39606" started-at="2022-08-29T12:35:50 IST" description="Patient name do not accept Special Characters" finished-at="2022-08-29T12:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC15 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="24" started-at="2022-08-29T12:36:30 IST" finished-at="2022-08-29T12:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="7086" started-at="2022-08-29T12:36:30 IST" finished-at="2022-08-29T12:36:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC16() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC16()[pri:4, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC16" duration-ms="41360" started-at="2022-08-29T12:36:37 IST" description="Age should be in Numbers" finished-at="2022-08-29T12:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC16 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="24" started-at="2022-08-29T12:37:18 IST" finished-at="2022-08-29T12:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="6166" started-at="2022-08-29T12:37:18 IST" finished-at="2022-08-29T12:37:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC17() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC17()[pri:5, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC17" duration-ms="38929" started-at="2022-08-29T12:37:25 IST" description="Age do not contains characters" finished-at="2022-08-29T12:38:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC17 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="23" started-at="2022-08-29T12:38:04 IST" finished-at="2022-08-29T12:38:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="10086" started-at="2022-08-29T12:38:04 IST" finished-at="2022-08-29T12:38:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC18() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC18()[pri:6, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC18" duration-ms="49828" started-at="2022-08-29T12:38:14 IST" description="Age do not contains special characters" finished-at="2022-08-29T12:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC18 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="27" started-at="2022-08-29T12:39:04 IST" finished-at="2022-08-29T12:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="6694" started-at="2022-08-29T12:39:04 IST" finished-at="2022-08-29T12:39:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC19() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC19()[pri:7, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC19" duration-ms="47349" started-at="2022-08-29T12:39:10 IST" description="DOB should be in dd/mm/yyyy format" finished-at="2022-08-29T12:39:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC19 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="43" started-at="2022-08-29T12:39:58 IST" finished-at="2022-08-29T12:39:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="8043" started-at="2022-08-29T12:39:58 IST" finished-at="2022-08-29T12:40:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC20() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC20()[pri:8, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC20" duration-ms="44833" started-at="2022-08-29T12:40:06 IST" description="DOB should not accept mm/dd/yyyy format" finished-at="2022-08-29T12:40:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC20 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="21" started-at="2022-08-29T12:40:51 IST" finished-at="2022-08-29T12:40:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="7502" started-at="2022-08-29T12:40:51 IST" finished-at="2022-08-29T12:40:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC21() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC21()[pri:9, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC21" duration-ms="43513" started-at="2022-08-29T12:40:58 IST" description="DOB should not accept yyyy/mm/dd format" finished-at="2022-08-29T12:41:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC21 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="34" started-at="2022-08-29T12:41:42 IST" finished-at="2022-08-29T12:41:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="6855" started-at="2022-08-29T12:41:42 IST" finished-at="2022-08-29T12:41:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC22() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC22()[pri:10, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC22" duration-ms="43105" started-at="2022-08-29T12:41:48 IST" description="Lenght of contact number should be 10" finished-at="2022-08-29T12:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC22 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="81" started-at="2022-08-29T12:42:32 IST" finished-at="2022-08-29T12:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="7760" started-at="2022-08-29T12:42:32 IST" finished-at="2022-08-29T12:42:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC23() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC23()[pri:11, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC23" duration-ms="47150" started-at="2022-08-29T12:42:39 IST" description="Lenght of contact number not should be less than 10" finished-at="2022-08-29T12:43:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC23 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="63" started-at="2022-08-29T12:43:27 IST" finished-at="2022-08-29T12:43:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="8937" started-at="2022-08-29T12:43:27 IST" finished-at="2022-08-29T12:43:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC24() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC24()[pri:12, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC24" duration-ms="51910" started-at="2022-08-29T12:43:36 IST" description="Lenght of contact number not should be greater than 10" finished-at="2022-08-29T12:44:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC24 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="45" started-at="2022-08-29T12:44:27 IST" finished-at="2022-08-29T12:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="8372" started-at="2022-08-29T12:44:28 IST" finished-at="2022-08-29T12:44:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC25() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC25()[pri:13, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC25" duration-ms="54853" started-at="2022-08-29T12:44:36 IST" description="Contact number not should not contains alphabates" finished-at="2022-08-29T12:45:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC25 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="258" started-at="2022-08-29T12:45:31 IST" finished-at="2022-08-29T12:45:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="11869" started-at="2022-08-29T12:45:31 IST" finished-at="2022-08-29T12:45:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC26() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC26()[pri:14, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC26" duration-ms="55582" started-at="2022-08-29T12:45:43 IST" description="Contact number not should not contains special characters" finished-at="2022-08-29T12:46:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC26 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="114" started-at="2022-08-29T12:46:38 IST" finished-at="2022-08-29T12:46:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="10240" started-at="2022-08-29T12:46:39 IST" finished-at="2022-08-29T12:46:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC27() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC27()[pri:15, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC27" duration-ms="54041" started-at="2022-08-29T12:46:49 IST" description="Contact number not should not contains white spaces" finished-at="2022-08-29T12:47:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC27 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="100" started-at="2022-08-29T12:47:43 IST" finished-at="2022-08-29T12:47:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="14197" started-at="2022-08-29T12:47:43 IST" finished-at="2022-08-29T12:47:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC28() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC28()[pri:16, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC28" duration-ms="65111" started-at="2022-08-29T12:47:57 IST" description="Lenght of Alt contact number should be 10" finished-at="2022-08-29T12:49:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC28 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="61" started-at="2022-08-29T12:49:02 IST" finished-at="2022-08-29T12:49:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="16291" started-at="2022-08-29T12:49:02 IST" finished-at="2022-08-29T12:49:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC29() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC29()[pri:17, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC29" duration-ms="62955" started-at="2022-08-29T12:49:19 IST" description="Lenght of Alt contact number not should be less than 10" finished-at="2022-08-29T12:50:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC29 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="103" started-at="2022-08-29T12:50:22 IST" finished-at="2022-08-29T12:50:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="16277" started-at="2022-08-29T12:50:22 IST" finished-at="2022-08-29T12:50:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC30() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC30()[pri:18, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC30" duration-ms="59084" started-at="2022-08-29T12:50:38 IST" description="Lenght of Alt contact number not should be greater than 10" finished-at="2022-08-29T12:51:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC30 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="94" started-at="2022-08-29T12:51:37 IST" finished-at="2022-08-29T12:51:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="10770" started-at="2022-08-29T12:51:37 IST" finished-at="2022-08-29T12:51:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC31() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC31()[pri:19, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC31" duration-ms="81961" started-at="2022-08-29T12:51:48 IST" description="Alt Contact number not should not contains alphabates" finished-at="2022-08-29T12:53:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC31 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="93" started-at="2022-08-29T12:53:10 IST" finished-at="2022-08-29T12:53:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="13285" started-at="2022-08-29T12:53:10 IST" finished-at="2022-08-29T12:53:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC32() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC32()[pri:20, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC32" duration-ms="81108" started-at="2022-08-29T12:53:23 IST" description="Alt Contact number not should not contains special characters" finished-at="2022-08-29T12:54:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC32 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="101" started-at="2022-08-29T12:54:44 IST" finished-at="2022-08-29T12:54:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="17264" started-at="2022-08-29T12:54:45 IST" finished-at="2022-08-29T12:55:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC33() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC33()[pri:21, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC33" duration-ms="90077" started-at="2022-08-29T12:55:02 IST" description="Alt Contact number not should not contains white spaces" finished-at="2022-08-29T12:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC33 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="116" started-at="2022-08-29T12:56:32 IST" finished-at="2022-08-29T12:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="35630" started-at="2022-08-29T12:56:32 IST" finished-at="2022-08-29T12:57:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC34() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC34()[pri:22, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC34" duration-ms="105809" started-at="2022-08-29T12:57:08 IST" description="address accepts alphabates" finished-at="2022-08-29T12:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC34 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="107" started-at="2022-08-29T12:58:53 IST" finished-at="2022-08-29T12:58:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="22074" started-at="2022-08-29T12:58:54 IST" finished-at="2022-08-29T12:59:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC35() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC35()[pri:23, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC35" duration-ms="139757" started-at="2022-08-29T12:59:16 IST" description="Address do not accept numbers" finished-at="2022-08-29T13:01:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC35 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="267" started-at="2022-08-29T13:01:35 IST" finished-at="2022-08-29T13:01:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="40519" started-at="2022-08-29T13:01:36 IST" finished-at="2022-08-29T13:02:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC36() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC36()[pri:24, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC36" duration-ms="136247" started-at="2022-08-29T13:02:16 IST" description="Address do not accept Special Characters" finished-at="2022-08-29T13:04:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC36 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="221" started-at="2022-08-29T13:04:33 IST" finished-at="2022-08-29T13:04:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="31138" started-at="2022-08-29T13:04:33 IST" finished-at="2022-08-29T13:05:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC37() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC37()[pri:25, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC37" duration-ms="240512" started-at="2022-08-29T13:05:04 IST" description="District accepts alphabates" finished-at="2022-08-29T13:09:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC37 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="451" started-at="2022-08-29T13:09:04 IST" finished-at="2022-08-29T13:09:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="38828" started-at="2022-08-29T13:09:05 IST" finished-at="2022-08-29T13:09:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC38() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC38()[pri:26, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC38" duration-ms="386007" started-at="2022-08-29T13:09:44 IST" description="District do not accept numbers" finished-at="2022-08-29T13:16:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC38 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="667" started-at="2022-08-29T13:16:10 IST" finished-at="2022-08-29T13:16:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="53041" started-at="2022-08-29T13:16:10 IST" finished-at="2022-08-29T13:17:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC39() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC39()[pri:27, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC39" duration-ms="508617" started-at="2022-08-29T13:17:03 IST" description="District do not accept Special Characters" finished-at="2022-08-29T13:25:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC39 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="1280" started-at="2022-08-29T13:25:33 IST" finished-at="2022-08-29T13:25:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="59932" started-at="2022-08-29T13:25:34 IST" finished-at="2022-08-29T13:26:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC40() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC40()[pri:28, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC40" duration-ms="490720" started-at="2022-08-29T13:26:34 IST" description="Pincode accepts numbers" finished-at="2022-08-29T13:34:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC40 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="1042" started-at="2022-08-29T13:34:45 IST" finished-at="2022-08-29T13:34:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="102474" started-at="2022-08-29T13:34:46 IST" finished-at="2022-08-29T13:36:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC41() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC41()[pri:29, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC41" duration-ms="428789" started-at="2022-08-29T13:36:29 IST" description="Pincode accept numbers" finished-at="2022-08-29T13:43:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC41 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="1065" started-at="2022-08-29T13:43:39 IST" finished-at="2022-08-29T13:43:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.reflect.Method)[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="beforeEachTestCase" is-config="true" duration-ms="69620" started-at="2022-08-29T13:43:41 IST" finished-at="2022-08-29T13:44:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void nursingSystem_Page_Tests.Login_Page_Test.TC42() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="TC42()[pri:30, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="TC42" duration-ms="493689" started-at="2022-08-29T13:44:51 IST" description="Pincode do not accept Special Characters" finished-at="2022-08-29T13:53:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC42 -->
+        <test-method status="PASS" signature="afterEachTestCase()[pri:0, instance:nursingSystem_Page_Tests.Login_Page_Test@5891e32e]" name="afterEachTestCase" is-config="true" duration-ms="1343" started-at="2022-08-29T13:53:05 IST" finished-at="2022-08-29T13:53:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+      </class> <!-- nursingSystem_Page_Tests.Login_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

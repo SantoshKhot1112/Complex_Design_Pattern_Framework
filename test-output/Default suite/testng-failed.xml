@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="nursingSystem_Page_Tests.Login_Page_Test">
+        <methods>
+          <include name="TC27"/>
+          <include name="TC38"/>
+          <include name="TC24"/>
+          <include name="TC35"/>
+          <include name="TC29"/>
+          <include name="TC26"/>
+          <include name="TC37"/>
+          <include name="TC34"/>
+          <include name="TC25"/>
+          <include name="TC36"/>
+          <include name="afterEachTestCase"/>
+          <include name="beforeEachTestCase"/>
+          <include name="TC31"/>
+          <include name="TC42"/>
+          <include name="TC33"/>
+          <include name="TC30"/>
+          <include name="TC41"/>
+          <include name="TC32"/>
+          <include name="TC40"/>
+          <include name="beforeSuitStart"/>
+          <include name="TC28"/>
+          <include name="TC39"/>
+        </methods>
+      </class> <!-- nursingSystem_Page_Tests.Login_Page_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
